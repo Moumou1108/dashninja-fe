@@ -35,4 +35,5 @@ git clone https://github.com/elbereth/dashninja-fe.git
 * Add api/cron.php script to your crontab, activate for main and/or test net, both for blocks24h and for masternode full list
 
 ## Configuration:
-* Todo...
+* Todo..
+List:
